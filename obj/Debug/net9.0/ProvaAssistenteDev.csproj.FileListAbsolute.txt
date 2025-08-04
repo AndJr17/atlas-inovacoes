@@ -1,0 +1,14 @@
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\bin\Debug\net9.0\ProvaAssistenteDev.exe
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\bin\Debug\net9.0\ProvaAssistenteDev.deps.json
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\bin\Debug\net9.0\ProvaAssistenteDev.runtimeconfig.json
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\bin\Debug\net9.0\ProvaAssistenteDev.dll
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\bin\Debug\net9.0\ProvaAssistenteDev.pdb
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.AssemblyInfoInputs.cache
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.AssemblyInfo.cs
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.csproj.CoreCompileInputs.cache
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.dll
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\refint\ProvaAssistenteDev.dll
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.pdb
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ProvaAssistenteDev.genruntimeconfig.cache
+C:\Users\juoku\OneDrive\Documentos\ProvaAssistenteDev\obj\Debug\net9.0\ref\ProvaAssistenteDev.dll
